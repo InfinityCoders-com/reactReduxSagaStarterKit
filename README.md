@@ -68,9 +68,3 @@ React Redux Saga Starter kit link to Login page
 
 Logo With link to Index Page  
 Login will fire an API and return Token which will be displayed next to Login Form  
-  
-  
-![Index Page](https://raw.githubusercontent.com/InfinityCoders-com/reactReduxSagaStarterKit/master/src/assets/ReactReduxSagaStarterKit.png)
-
-
-![Login Page](https://raw.githubusercontent.com/InfinityCoders-com/reactReduxSagaStarterKit/master/src/assets/ReactReduxSagaStarterKit1.png)
